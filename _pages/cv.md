@@ -30,5 +30,5 @@ Skills
 Service and leadership
 ======
 * Volunteering for underserved communities
-* Working with children in Costa Rica 
-* House building in Costa Rica
+  * Working with children in Costa Rica 
+  * House building in Costa Rica
