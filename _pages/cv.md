@@ -17,7 +17,8 @@ Work experience
 ======
 * Website Development for Non Profit Orginization
 * Summer I.T Internship
-* 
+  * MeadowBrook school of Weston
+  * TASIS Dorado
   
 Skills
 ======
